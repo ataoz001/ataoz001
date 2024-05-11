@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Atahan Ozdogan
 - 👀 I’m interested in machine learning and backend developement
-- 🌱 I’m currently learning web development 
 
 <!---
 ataoz001/ataoz001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
